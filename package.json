@@ -25,7 +25,6 @@
     "core-js": "^2.5.4",
     "engine.io-client": "^3.2.1",
     "hoek": "^5.0.4",
-    "parsejson": "0.0.3",
     "rxjs": "^6.0.0",
     "zone.js": "~0.8.26"
   },
